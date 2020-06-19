@@ -3,4 +3,4 @@ User-agent: *
 Disallow: /client/
 Disallow: /images/
 
-Sitemap: https://www.jonmarsh.dev/sitemap.xml
+Sitemap: https://www.swavesey.app/sitemap.xml

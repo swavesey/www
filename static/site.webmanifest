@@ -1,12 +1,12 @@
 {
-  "name": "JonathanMarsh",
-  "short_name": "JonM",
+  "name": "Swavesey",
+  "short_name": "Swavesey",
   "display": "standalone",
   "theme_color": "#edf1f5",
   "background_color": "#edf1f5",
-  "description": "An offline version of https://www.jonmarsh.dev",
+  "description": "An offline version of https://www.swavesey.app",
   "lang": "en-GB",
-  "categories": ["portfolio", "games", "devtools"],
+  "categories": ["community", "village", "hub"],
 	"start_url": "/",
 	"icons": [
 		{
